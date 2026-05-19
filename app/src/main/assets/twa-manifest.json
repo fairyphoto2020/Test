@@ -1,0 +1,9 @@
+{
+    "name": "bolt uix",
+    "short_name": "bolt",
+    "description": "Explore the world of mobile app development.",
+    "start_url": "https://www.boltuix.com/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/"
+}
